@@ -1,7 +1,7 @@
 import os
 import time
 import pandas as pd
-import requests
+from curl_cffi import requests
 from lxml import html
 
 input_excel = r"D:\30-day-scraping-challenge\output file\apollotyres\pl2\apollotyres2.xlsx"
