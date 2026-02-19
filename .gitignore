@@ -1,36 +1,48 @@
-# Python cache
+# =========================
+# Python Cache
+# =========================
 __pycache__/
 *.py[cod]
 *.pyc
 
-# Virtual environments
+# =========================
+# Virtual Environments
+# =========================
 venv/
 .venv/
 env/
 ENV/
 
-# IDE
+# =========================
+# IDE Settings
+# =========================
 .idea/
 .vscode/
 
-# OS files
+# =========================
+# OS Generated Files
+# =========================
 .DS_Store
 Thumbs.db
 
+# =========================
 # Logs
+# =========================
 *.log
 
-# Raw HTML dumps
-pagesave/
-output file/
-
-# Build files
+# =========================
+# Build / Distribution Files
+# =========================
 build/
 dist/
 *.egg-info/
 
+# =========================
 # Jupyter
+# =========================
 .ipynb_checkpoints/
 
-# Environment variables
+# =========================
+# Environment Variables
+# =========================
 .env
