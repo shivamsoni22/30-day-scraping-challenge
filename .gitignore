@@ -211,3 +211,18 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 >>>>>>> d9ac07b72ef341dd069334fc6869fe2445d9ec93
+
+# Virtual Environment
+venv/
+
+# IDE
+.idea/
+
+# Raw HTML dumps
+pagesave/
+output file/
+
+# Python cache
+__pycache__/
+*.pyc
+
