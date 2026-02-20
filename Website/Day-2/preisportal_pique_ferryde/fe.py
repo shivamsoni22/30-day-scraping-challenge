@@ -53,7 +53,7 @@ def make_request(i):
        return f"Request {i}  Error: {e}"
 if __name__ == "__main__":
    num_requests = 5000
-   max_workers = 500
+   max_workers = 50
    results = []
    with ThreadPoolExecutor(max_workers=max_workers) as executor:
        futures = [executor.submit(make_request, i) for i in range(1, num_requests + 1)]
