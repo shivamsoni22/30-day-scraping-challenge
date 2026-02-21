@@ -7,14 +7,15 @@ from urllib.parse import urljoin
 PLATFORM = "tanishq"
 MAX_RECORDS = 7000
 
-BASE_OUTPUT = r"D:\30-day-scraping-challenge\output file"
-BASE_PAGESAVE = r"D:\30-day-scraping-challenge\pagesave"
+BASE_OUTPUT = r"D:\30_day\output file"
+BASE_PAGESAVE = r"D:\30_day\pagesave"
 
 pl_output_path = os.path.join(BASE_OUTPUT, PLATFORM, "pl")
 pl_pagesave_path = os.path.join(BASE_PAGESAVE, PLATFORM, "pl")
 
 os.makedirs(pl_output_path, exist_ok=True)
 os.makedirs(pl_pagesave_path, exist_ok=True)
+
 
 headers = {
     "accept": "*/*",
