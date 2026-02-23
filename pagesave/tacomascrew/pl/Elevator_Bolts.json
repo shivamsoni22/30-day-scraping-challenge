@@ -1,0 +1,73 @@
+{
+    "uri": "https://www.tacomascrew.com/api/v1/catalogpages?path=/Catalog/fasteners/bolts/elevator-bolts",
+    "category": {
+        "uri": null,
+        "id": "5f8e9b4e-39a2-43a3-88d5-abfa01122709",
+        "name": "Elevator Bolts",
+        "shortDescription": "Elevator Bolts",
+        "urlSegment": "elevator-bolts",
+        "smallImagePath": "https://res.cloudinary.com/tacoma-screw-products/image/upload/f_auto,t_category-small/CategoryImages/ElevatorBolts.jpg",
+        "largeImagePath": "https://res.cloudinary.com/tacoma-screw-products/image/upload/f_auto,t_category-large/CategoryImages/webcat_header_img_placeholder.jpg",
+        "imageAltText": "",
+        "activateOn": "2020-07-16T16:38:09.5201698+00:00",
+        "deactivateOn": null,
+        "metaKeywords": "",
+        "metaDescription": "Elevator bolts are specialized fasteners with a built-in, captive washer and a self-locking mechanism, designed to prevent vibration loosening. Commonly used in applications where reliable, tamper-proof connections are needed, like elevators.",
+        "htmlContent": "",
+        "sortOrder": 0,
+        "isFeatured": false,
+        "isDynamic": false,
+        "subCategories": [],
+        "path": "/Catalog/fasteners/bolts/elevator-bolts",
+        "mobileBannerImageUrl": "",
+        "mobilePrimaryText": "",
+        "mobileSecondaryText": "",
+        "mobileTextJustification": "Left",
+        "mobileTextColor": "333333",
+        "properties": {
+            "isTableView": "False"
+        }
+    },
+    "brandId": null,
+    "productLineId": null,
+    "productId": null,
+    "productName": null,
+    "title": "Elevator Bolts",
+    "metaDescription": "Elevator bolts are specialized fasteners with a built-in, captive washer and a self-locking mechanism, designed to prevent vibration loosening. Commonly used in applications where reliable, tamper-proof connections are needed, like elevators.",
+    "metaKeywords": "Elevator Bolts Elevator Bolts",
+    "canonicalPath": "/Catalog/fasteners/bolts/elevator-bolts",
+    "alternateLanguageUrls": {},
+    "isReplacementProduct": false,
+    "breadCrumbs": [
+        {
+            "text": "Home",
+            "url": "/",
+            "categoryId": ""
+        },
+        {
+            "text": "Fasteners",
+            "url": "/Catalog/fasteners",
+            "categoryId": "52dbe88d-c727-4fb5-bd3c-abfa01121a13"
+        },
+        {
+            "text": "Bolts",
+            "url": "/Catalog/fasteners/bolts",
+            "categoryId": "67c8e4f9-754f-4da6-a80a-abfa01121a2f"
+        },
+        {
+            "text": "Elevator Bolts",
+            "url": "/Catalog/fasteners/bolts/elevator-bolts",
+            "categoryId": "5f8e9b4e-39a2-43a3-88d5-abfa01122709"
+        }
+    ],
+    "obsoletePath": false,
+    "needRedirect": false,
+    "redirectUrl": null,
+    "primaryImagePath": "https://res.cloudinary.com/tacoma-screw-products/image/upload/f_auto,t_category-small/CategoryImages/ElevatorBolts.jpg",
+    "openGraphTitle": "",
+    "openGraphImage": "",
+    "openGraphUrl": "",
+    "structuredPageData": null,
+    "enableStructuredPageData": false,
+    "properties": {}
+}
