@@ -1,0 +1,73 @@
+{
+    "uri": "https://www.tacomascrew.com/api/v1/catalogpages?path=/Catalog/fasteners/bolts/plow-bolts",
+    "category": {
+        "uri": null,
+        "id": "a80ab788-4967-4909-b3ae-abfa01123381",
+        "name": "Plow Bolts",
+        "shortDescription": "Plow Bolts",
+        "urlSegment": "plow-bolts",
+        "smallImagePath": "https://res.cloudinary.com/tacoma-screw-products/image/upload/f_auto,t_category-small/CategoryImages/PlowBolts.jpg",
+        "largeImagePath": "https://res.cloudinary.com/tacoma-screw-products/image/upload/f_auto,t_category-large/CategoryImages/webcat_header_img_placeholder.jpg",
+        "imageAltText": "",
+        "activateOn": "2020-07-16T16:38:20.1590288+00:00",
+        "deactivateOn": null,
+        "metaKeywords": "",
+        "metaDescription": "Plow bolts have a unique, elongated, hexagonal head with two parallel flats, allowing for use with either a wrench or a plow nut. They're designed for heavy-duty applications, especially in agriculture for attaching plow blades and other equipment.",
+        "htmlContent": "",
+        "sortOrder": 0,
+        "isFeatured": false,
+        "isDynamic": false,
+        "subCategories": [],
+        "path": "/Catalog/fasteners/bolts/plow-bolts",
+        "mobileBannerImageUrl": "",
+        "mobilePrimaryText": "",
+        "mobileSecondaryText": "",
+        "mobileTextJustification": "Left",
+        "mobileTextColor": "333333",
+        "properties": {
+            "isTableView": "False"
+        }
+    },
+    "brandId": null,
+    "productLineId": null,
+    "productId": null,
+    "productName": null,
+    "title": "Plow Bolts",
+    "metaDescription": "Plow bolts have a unique, elongated, hexagonal head with two parallel flats, allowing for use with either a wrench or a plow nut. They're designed for heavy-duty applications, especially in agriculture for attaching plow blades and other equipment.",
+    "metaKeywords": "Plow Bolts Plow Bolts",
+    "canonicalPath": "/Catalog/fasteners/bolts/plow-bolts",
+    "alternateLanguageUrls": {},
+    "isReplacementProduct": false,
+    "breadCrumbs": [
+        {
+            "text": "Home",
+            "url": "/",
+            "categoryId": ""
+        },
+        {
+            "text": "Fasteners",
+            "url": "/Catalog/fasteners",
+            "categoryId": "52dbe88d-c727-4fb5-bd3c-abfa01121a13"
+        },
+        {
+            "text": "Bolts",
+            "url": "/Catalog/fasteners/bolts",
+            "categoryId": "67c8e4f9-754f-4da6-a80a-abfa01121a2f"
+        },
+        {
+            "text": "Plow Bolts",
+            "url": "/Catalog/fasteners/bolts/plow-bolts",
+            "categoryId": "a80ab788-4967-4909-b3ae-abfa01123381"
+        }
+    ],
+    "obsoletePath": false,
+    "needRedirect": false,
+    "redirectUrl": null,
+    "primaryImagePath": "https://res.cloudinary.com/tacoma-screw-products/image/upload/f_auto,t_category-small/CategoryImages/PlowBolts.jpg",
+    "openGraphTitle": "",
+    "openGraphImage": "",
+    "openGraphUrl": "",
+    "structuredPageData": null,
+    "enableStructuredPageData": false,
+    "properties": {}
+}
