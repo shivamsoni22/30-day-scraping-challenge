@@ -48,6 +48,17 @@ if response.status_code != 200:
     print("Blocked by Cloudflare")
     exit()
 
+pagesave_dir = r"D:\30-day-scraping-challenge\pagesave"
+os.makedirs(pagesave_dir, exist_ok=True)
+
+page_file_path = os.path.join(pagesave_dir, "Ahmedabad_page1.html")
+
+with open(page_file_path, "wb") as f:
+    f.write(response.content)
+
+print("Page HTML saved successfully")
+
+
 tree = html.fromstring(response.content)
 
 
