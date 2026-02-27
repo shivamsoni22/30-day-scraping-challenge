@@ -1,0 +1,73 @@
+{
+    "uri": "https://www.tacomascrew.com/api/v1/catalogpages?path=/Catalog/fasteners/bolts/step-bolts",
+    "category": {
+        "uri": null,
+        "id": "d3cf2ad3-2729-4cb2-9ff8-abfa01123d57",
+        "name": "Step Bolts",
+        "shortDescription": "Step Bolts",
+        "urlSegment": "step-bolts",
+        "smallImagePath": "https://res.cloudinary.com/tacoma-screw-products/image/upload/f_auto,t_category-small/CategoryImages/StepBolts.jpg",
+        "largeImagePath": "https://res.cloudinary.com/tacoma-screw-products/image/upload/f_auto,t_category-large/CategoryImages/webcat_header_img_placeholder.jpg",
+        "imageAltText": "",
+        "activateOn": "2020-07-16T16:38:28.5515598+00:00",
+        "deactivateOn": null,
+        "metaKeywords": "",
+        "metaDescription": "Step bolts, also known as rung bolts, have a flat step or rung on one end, used for creating ladder rungs or steps on structures. They are commonly threaded on one end for secure fastening.",
+        "htmlContent": "",
+        "sortOrder": 0,
+        "isFeatured": false,
+        "isDynamic": false,
+        "subCategories": [],
+        "path": "/Catalog/fasteners/bolts/step-bolts",
+        "mobileBannerImageUrl": "",
+        "mobilePrimaryText": "",
+        "mobileSecondaryText": "",
+        "mobileTextJustification": "Left",
+        "mobileTextColor": "333333",
+        "properties": {
+            "isTableView": "False"
+        }
+    },
+    "brandId": null,
+    "productLineId": null,
+    "productId": null,
+    "productName": null,
+    "title": "Step Bolts",
+    "metaDescription": "Step bolts, also known as rung bolts, have a flat step or rung on one end, used for creating ladder rungs or steps on structures. They are commonly threaded on one end for secure fastening.",
+    "metaKeywords": "Step Bolts Step Bolts",
+    "canonicalPath": "/Catalog/fasteners/bolts/step-bolts",
+    "alternateLanguageUrls": {},
+    "isReplacementProduct": false,
+    "breadCrumbs": [
+        {
+            "text": "Home",
+            "url": "/",
+            "categoryId": ""
+        },
+        {
+            "text": "Fasteners",
+            "url": "/Catalog/fasteners",
+            "categoryId": "52dbe88d-c727-4fb5-bd3c-abfa01121a13"
+        },
+        {
+            "text": "Bolts",
+            "url": "/Catalog/fasteners/bolts",
+            "categoryId": "67c8e4f9-754f-4da6-a80a-abfa01121a2f"
+        },
+        {
+            "text": "Step Bolts",
+            "url": "/Catalog/fasteners/bolts/step-bolts",
+            "categoryId": "d3cf2ad3-2729-4cb2-9ff8-abfa01123d57"
+        }
+    ],
+    "obsoletePath": false,
+    "needRedirect": false,
+    "redirectUrl": null,
+    "primaryImagePath": "https://res.cloudinary.com/tacoma-screw-products/image/upload/f_auto,t_category-small/CategoryImages/StepBolts.jpg",
+    "openGraphTitle": "",
+    "openGraphImage": "",
+    "openGraphUrl": "",
+    "structuredPageData": null,
+    "enableStructuredPageData": false,
+    "properties": {}
+}
