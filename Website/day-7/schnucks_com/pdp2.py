@@ -22,8 +22,8 @@ headers = {
     # 'cookie': 'TS01b763b5=0182a5a6cf8580c9ce248373fae9b93903246b0623905cb2bace370917a8e61b5783714167468eef1d90c5ae8f1595329a6d2965f0; _fbp=fb.1.1772113910298.734946929833270260; _gid=GA1.2.1304019095.1772113911; _pin_unauth=dWlkPU5qVXpZall5WldJdE1qVXlOUzAwTmpKaUxXSmlaV0V0TVRFek5tVTFZMkptWkRobA; __privaci_cookie_consent_uuid=b499cf06-296a-4762-a674-186f88c6f1ac:4; __privaci_cookie_consent_generated=b499cf06-296a-4762-a674-186f88c6f1ac:4; _clck=1s8etnc%5E2%5Eg3w%5E0%5E2248; _tt_enable_cookie=1; _ttp=01KJD3H0ET8739F0T2E7W44S5P_.tt.1; _gcl_au=1.1.925421708.1772113921; __privaci_cookie_consents={"consents":{"1":1,"2":1,"4":1,"5":1},"location":"GJ#IN","lang":"en","gpcInBrowserOnConsent":false,"gpcStatusInPortalOnConsent":false,"status":"record-consent-success","implicit_consent":false}; __privaci_latest_published_version=5; ajs_anonymous_id=466e4b25-d10a-4c1c-9b89-b11d70fd7eb8; _conv_v=vi%3A1*sc%3A1*cs%3A1772113911*fs%3A1772113911*pv%3A7*exp%3A%7B%7D*seg%3A%7B%7D; _conv_s=sh%3A1772113910784-0.6276341739789632*si%3A1*pv%3A7; _gat_UA-3017216-1=1; _gat_%5Bobject%20Object%5D=1; _gat_gtag_UA_3017216_1=1; _ga=GA1.1.1169088979.1772113911; _ga_VS0TEWYZ5P=GS2.1.s1772113911$o1$g1$t1772113993$j60$l0$h0; _clsk=kkpz7m%5E1772113994318%5E6%5E1%5El.clarity.ms%2Fcollect; ttcsid=1772113920489::qeTY7sgt3y6xq5uvLFfb.1.1772113994326.0; ttcsid_CD7AQCJC77U5U64QBH8G=1772113920486::fFE7EOd3xPbld7M7lQvC.1.1772113994326.1; datadome=fi2T0txUSopa0Jrb9WWq815Cj8HfDP2JlfuhAeuzf5NIV3eceBroakLseuTmb3yV6yKGWTxPRK7rtkrz_eQ3CdT6siD9Y7tBSuSQQ4V8JVpAAIHHgqI688auEPRqGu0y',
 }
 
-token = "f42a5b59aec3467e97a8794c611c436b91589634343"
-proxyModeUrl = "http://{}:@proxy.scrape.do:8080".format(token)
+token = ""
+proxyModeUrl = ""
 proxies = {
     "http": proxyModeUrl,
     "https": proxyModeUrl,
