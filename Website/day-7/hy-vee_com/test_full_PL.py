@@ -95,19 +95,12 @@ if response.status_code != 200:
     print(response.text)
     exit()
 
-# ==============================
-# 4️⃣ JSON Parse
-# ==============================
-
 data = response.json()
 
 products = data["data"]["searchProductsResultV2"]["searchProducts"]
 
 print(f"Total Products Fetched: {len(products)}")
 
-# ==============================
-# 5️⃣ Extract Required Fields
-# ==============================
 
 records = []
 
