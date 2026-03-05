@@ -21,12 +21,12 @@ page_save_count = 60
 
 DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1399316794518278277/UECsRqVYFlE7SMGrmbAYzPvlR6oiDXXsSiVB4vP9dY57lnsWT_JLp8U7AQGTO70ZazLB'
 
-# sql_obj = sqlDatabase()
-# conn = sql_obj.create_connection()
-# db_name = "didi_food"
-# sql_obj.create_database(conn, db_name)
-# table_name = "didi_links_oct_2025_p1"
-# system = '(165_sb_c1) | '
+sql_obj = sqlDatabase()
+conn = sql_obj.create_connection()
+db_name = "didi_food"
+sql_obj.create_database(conn, db_name)
+table_name = "didi_links_oct_2025_p1"
+system = '(165_sb_c1) | '
 
 def send_discord_message(message):
     data = {
